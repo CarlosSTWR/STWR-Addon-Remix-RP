@@ -61,6 +61,18 @@
     "stwr:casco_lobezno": {
 			"textures": "textures/items/rasa/casco_lobezno"
 		},
+    "stwr:casco_enano": {
+			"textures": "textures/items/rasa/casco_enano"
+		},
+    "stwr:casco_alto": {
+			"textures": "textures/items/rasa/casco_alto"
+		},
+     "stwr:casco_funji": {
+			"textures": "textures/items/rasa/casco_funji"
+    },
+    "stwr:casco_precursor": {
+			"textures": "textures/items/rasa/casco_precursor"
+    },
     "stwr:casco_angel": {
 			"textures": "textures/items/rasa/casco_angel"
 		}
