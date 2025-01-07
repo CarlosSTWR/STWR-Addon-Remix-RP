@@ -55,6 +55,12 @@
     "stwr:casco_demonio": {
 			"textures": "textures/items/rasa/casco_demonio"
 		},
+    "stwr:casco_elfo": {
+			"textures": "textures/items/rasa/casco_elfo"
+		},
+    "stwr:casco_lobezno": {
+			"textures": "textures/items/rasa/casco_lobezno"
+		},
     "stwr:casco_angel": {
 			"textures": "textures/items/rasa/casco_angel"
 		}
