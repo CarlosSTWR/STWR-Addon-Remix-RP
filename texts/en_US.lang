@@ -1,0 +1,143 @@
+item.stwr:ender.name=Espada ender
+item.stwr:ender=Espada ender
+item.stwr:durimita_cristal.name=§3Durimita Cristal
+item.stwr:durimita_cristal=§3Durimita Cristal
+item.stwr:durimita.name=Durimita
+item.stwr:durimita=Durimita
+item.stwr:rubi.name=Rubi
+item.stwr:rubi=Rubi
+item.stwr:rubimita.name=Rubimita
+item.stwr:rubimita=Rubimita
+item.stwr:obsimita.name=§5Obsimita
+item.stwr:obsimita=§5Obsimita
+item.stwr:travel.name=§bTravel
+item.stwr:travel=§bTravel
+item.stwr:reddead.name=§4Red Dead
+item.stwr:reddead=§4Red Dead
+item.stwr:espada_titamita.name=§eEspada de Titamita
+item.stwr:espada_titamita=§eEspada de Titamita
+item.stwr:outlas.name=§dOutlas
+item.stwr:outlas=§dOutlas
+item.stwr:kavi_resistencia.name=Kavi de resistencia
+item.stwr:kavi_resistencia=Kavi de resistencia
+item.stwr:titamita.name=Titamita
+item.stwr:titamita=Titamita
+item.stwr:casco_titamita.name=§eCasco de Titamita
+item.stwr:casco_titamita=§eCasco de Titamita
+item.stwr:botas_titamita.name=§eBotas de Titamita
+item.stwr:botas_titamita=§eBotas de Titamita
+## Comments can be added anywhere on a valid line by starting with '##'
+##
+## Note, trailing spaces will NOT be trimmed. If you want room between the end of the string and the start of a
+## comment on the same line, use TABs.
+accessibility.disableTTS=Text To Speech disabled
+accessibility.enableTTS=Text To Speech enabled
+item.spawn_egg.entity.pa:fish_1.name=Spawn Fish 1
+item.spawn_egg.entity.pa:crab.name=Spawn Crab
+item.spawn_egg.entity.pa:fish_2.name=Spawn Butterfly Fish
+item.spawn_egg.entity.pa:fish_3.name=Spawn Fish 3
+item.spawn_egg.entity.pa:starfish.name=Spawn  Starfish
+item.spawn_egg.entity.pa:shark.name=Spawn Shark
+item.spawn_egg.entity.pa:megalodon.name=Spawn Megalodon
+item.spawn_egg.entity.pa:octopus_red.name=Spawn Octopus Red
+item.spawn_egg.entity.pa:octopus.name=Spawn Octopus
+item.spawn_egg.entity.pa:hammerhead_shark.name=Spawn Hammerhead shark
+item.spawn_egg.entity.pa:piranha.name=Spawn Piranha
+item.spawn_egg.entity.pa:stingray.name=Spawn Stingray
+item.spawn_egg.entity.pa:fishleon.name=Spawn Lion fish
+item.spawn_egg.entity.pa:swordfish.name=Spawn Swordfish
+item.spawn_egg.entity.pa:jellyfish_1.name=Jellyfish 1
+item.spawn_egg.entity.pa:jellyfish_2.name=Jellyfish 2
+item.spawn_egg.entity.pa:jellyfish_3.name=Jellyfish 3
+item.spawn_egg.entity.pa:shark_2.name=Spawn Shark 2
+item.spawn_egg.entity.pa:whale.name=Spawn Whale
+item.spawn_egg.entity.pa:cachalote.name=Spawn Cachalote
+item.spawn_egg.entity.pa:shrimp.name=Spawn Shrimp
+
+item.spawn_egg.entity.pa:vulture.name=Spawn Vulture
+item.spawn_egg.entity.pa:eagle.name=Spawn Eagle
+item.spawn_egg.entity.pa:phoenix.name=Spawn Phoenix
+item.spawn_egg.entity.pa:seagull.name=Spawn Seagull
+item.spawn_egg.entity.pa:villager_with_player_model.name=Spawn NPC
+
+entity.pa:vulture.name=Vulture
+entity.pa:eagle.name=Eagle
+entity.pa:phoenix.name=Phoenix
+entity.pa:seagull.name=Seagull
+entity.pa:villager_with_player_model.name=NPC
+
+entity.lamborghini:gallardo_yellow.name=Lamborghini Gallardo Yellow
+item.spawn_egg.entity.lamborghini:gallardo_yellow.name=Lamborghini Gallardo Yellow
+
+entity.lamborghini:gallardo_red.name=Lamborghini Gallardo Red
+item.spawn_egg.entity.lamborghini:gallardo_red.name=Lamborghini Gallardo Red
+
+entity.lamborghini:gallardo_blue.name=Lamborghini Gallardo Blue
+item.spawn_egg.entity.lamborghini:gallardo_blue.name=Lamborghini Gallardo Blue
+
+entity.lamborghini:gallardo_green.name=Lamborghini Gallardo Green
+item.spawn_egg.entity.lamborghini:gallardo_green.name=Lamborghini Gallardo Green
+
+entity.lamborghini:gallardo_black.name=Lamborghini Gallardo Black
+item.spawn_egg.entity.lamborghini:gallardo_black.name=Lamborghini Gallardo Black
+
+entity.lamborghini:gallardo_white.name=Lamborghini Gallardo White
+item.spawn_egg.entity.lamborghini:gallardo_white.name=Lamborghini Gallardo White
+
+entity.lamborghini:gallardo_orange.name=Lamborghini Gallardo Orange
+item.spawn_egg.entity.lamborghini:gallardo_orange.name=Lamborghini Gallardo Orange
+
+entity.lamborghini:gallardo_purple.name=Lamborghini Gallardo Purple
+item.spawn_egg.entity.lamborghini:gallardo_purple.name=Lamborghini Gallardo Purple
+
+entity.lamborghini:gallardo_cyan.name=Lamborghini Gallardo Cyan
+item.spawn_egg.entity.lamborghini:gallardo_cyan.name=Lamborghini Gallardo Cyan
+
+##Items##
+
+item.compound.salt.name=Ivory Tusk
+item.compound.sodiumoxide.name=Stinky Cheese
+
+##Spawn Eggs##
+
+item.spawn_egg.entity.animal:bear.name=Spawn Bear
+item.spawn_egg.entity.animal:buffalo.name=Spawn Buffalo
+item.spawn_egg.entity.animal:camel.name=Spawn Camel
+item.spawn_egg.entity.animal:duck.name=Spawn Duck
+item.spawn_egg.entity.animal:penguin.name=Spawn Penguin
+item.spawn_egg.entity.animal:steve.name=Spawn Steve (NPC)
+item.spawn_egg.entity.animal:alex.name=Spawn Alex (NPC)
+item.spawn_egg.entity.animal:lion.name=Spawn Lion
+item.spawn_egg.entity.animal:hamster.name=Spawn Hamster
+item.spawn_egg.entity.animal:hippo.name=Spawn Hippopotamus
+item.spawn_egg.entity.animal:chameleon.name=Spawn Chameleon
+item.spawn_egg.entity.animal:mouse.name=Spawn Mouse
+item.spawn_egg.entity.animal:deer.name=Spawn Deer
+item.spawn_egg.entity.animal:elephant.name=Spawn Elephant
+item.spawn_egg.entity.animal:frog.name=Spawn Frog
+item.spawn_egg.entity.animal:bumblebee.name=Spawn Bumblebee
+item.spawn_egg.entity.animal:tortoise.name=Spawn Tortoise
+item.spawn_egg.entity.animal:frozen_beast.name=Spawn Frozen Beast
+item.spawn_egg.entity.animal:crocodile.name=Spawn Crocodile
+item.spawn_egg.entity.animal:zushroom.name=Spawn Zushroom
+item.spawn_egg.entity.animal:starfish.name=Spawn Starfish
+item.spawn_egg.entity.animal:panther.name=Spawn Panther
+item.spawn_egg.entity.animal:brown_mooshroom.name=Spawn Brown Mooshroom
+item.spawn_egg.entity.mooshroom.name=Spawn Red Mooshroom
+item.spawn_egg.entity.animal:emerged.name=Spawn Emerged
+item.spawn_egg.entity.animal:corrupted_skeleton.name=Spawn Corrupted Skeleton
+item.spawn_egg.entity.animal:welter.name=Spawn Welter
+item.spawn_egg.entity.animal:npc.name=Spawn NPC
+item.spawn_egg.entity.animal:npc_scientist.name=Spawn NPC Scientist
+item.spawn_egg.entity.animal:nether_creeper.name=Spawn Nether Creeper
+item.spawn_egg.entity.animal:flea.name=Spawn Flea
+item.spawn_egg.entity.animal:bird.name=Spawn Bird
+item.spawn_egg.entity.animal:tiger.name=Spawn Tiger
+item.spawn_egg.entity.animal:ender_creeper.name=Spawn Ender Creeper
+item.spawn_egg.entity.animal:ender_skeleton.name=Spawn Ender Skeleton
+
+##Entities##
+
+
+
+##new furni##

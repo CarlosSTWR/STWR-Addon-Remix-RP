@@ -1,0 +1,42 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"CarlosSTWR"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.7.42"
+			],
+			"dash": [
+				"0.11.7"
+			]
+		}
+	},
+	"header": {
+		"name": "STWR Addon Remix",
+		"description": "Para los jugadores del Realms/server STWR NET",
+		"min_engine_version": [
+			1,
+			21,
+			0
+		],
+		"uuid": "4382181d-547b-40f6-9947-742397a6c803",
+		"version": [
+			1,
+			1,
+			1
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "e0fcb719-e959-4b01-b4f5-0745f3adf5ba",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}

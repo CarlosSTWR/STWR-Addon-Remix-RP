@@ -1,0 +1,157 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.chest_normal",
+				"texture_width": 64,
+				"texture_height": 64,
+				"visible_bounds_width": 3,
+				"visible_bounds_height": 3.5,
+				"visible_bounds_offset": [
+					0,
+					1.25,
+					0
+				]
+			},
+			"bones": [
+				{
+					"name": "cofre_normal_entity",
+					"pivot": [
+						0,
+						6,
+						-6
+					]
+				},
+				{
+					"name": "ojos",
+					"parent": "cofre_normal_entity",
+					"pivot": [
+						0,
+						6,
+						-6
+					],
+					"cubes": [
+						{
+							"origin": [
+								-5,
+								6,
+								-8
+							],
+							"size": [
+								2,
+								3,
+								1
+							],
+							"uv": [
+								0,
+								0
+							]
+						},
+						{
+							"origin": [
+								3,
+								6,
+								-8
+							],
+							"size": [
+								2,
+								3,
+								1
+							],
+							"uv": [
+								0,
+								0
+							]
+						}
+					]
+				},
+				{
+					"name": "caja",
+					"parent": "cofre_normal_entity",
+					"pivot": [
+						0,
+						10,
+						7
+					],
+					"rotation": [
+						0,
+						180,
+						-180
+					],
+					"cubes": [
+						{
+							"origin": [
+								-7,
+								0,
+								7
+							],
+							"size": [
+								14,
+								10,
+								14
+							],
+							"pivot": [
+								0,
+								10,
+								14
+							],
+							"rotation": [
+								180,
+								0,
+								0
+							],
+							"uv": [
+								0,
+								19
+							]
+						}
+					]
+				},
+				{
+					"name": "puerta",
+					"parent": "cofre_normal_entity",
+					"pivot": [
+						0,
+						10,
+						7
+					],
+					"cubes": [
+						{
+							"origin": [
+								-1,
+								8,
+								-8
+							],
+							"size": [
+								2,
+								4,
+								1
+							],
+							"uv": [
+								0,
+								0
+							]
+						},
+						{
+							"origin": [
+								-7,
+								10,
+								-7
+							],
+							"size": [
+								14,
+								5,
+								14
+							],
+							"uv": [
+								0,
+								0
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,62 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.items",
+  "texture_data": {
+       "stwr:durimita": {
+      "textures": "textures/items/minerales/stwr_durimita"
+    },
+    "stwr:ender": {
+      "textures": "textures/items/herramientas/stwr_ender.png"
+    },
+    "stwr:durimita_cristal": {
+      "textures": "textures/items/minerales/stwr_durimita_cristal"
+    },
+    "stwr:rubi": {
+      "textures": "textures/items/minerales/stwr_rubi"
+    },
+    "stwr:rubimita": {
+      "textures": "textures/items/minerales/stwr_rubimita"
+    },
+    "stwr:obsimita": {
+      "textures": "textures/items/minerales/stwr_obsimita"
+    },
+    "stwr:espada_titamita": {
+      "textures": "textures/items/herramientas/stwr_espada_titamita"
+    },
+    "stwr:titamita": {
+      "textures": "textures/items/minerales/stwr_titamita"
+    },
+    "stwr:reddead": {
+      "textures": "textures/items/herramientas/stwr_reddead"
+    },
+    "stwr:travel": {
+      "textures": "textures/items/herramientas/stwr_travel"
+    },
+    "stwr:outlas": {
+      "textures": "textures/items/herramientas/stwr_outlas"
+    },
+    "stwr:kavi_resistencia": {
+      "textures": "textures/items/comidas/stwr_kavi_resistencia"
+    },
+    "stwr:casco_titamita": {
+      "textures": [
+        "textures/items/armaduras/stwr_casco_titamita"
+      ]
+    },
+    "stwr:botas_titamita": {
+      "textures": [
+        "textures/items/armaduras/stwr_botas_titamita"
+      ]
+    },"stwr:frame": {
+      "textures": [
+        "textures/items/otros/stwr_frame"
+      ]
+    },
+    "stwr:casco_demonio": {
+			"textures": "textures/items/rasa/casco_demonio"
+		},
+    "stwr:casco_angel": {
+			"textures": "textures/items/rasa/casco_angel"
+		}
+  }
+}
