@@ -35,7 +35,7 @@
     "stwr:outlas": {
       "textures": "textures/items/herramientas/stwr_outlas"
     },
-    "stwr:kavi_resistencia": {
+    "stwr:kavi": {
       "textures": "textures/items/comidas/stwr_kavi"
     },
     "stwr:casco_titamita": {
