@@ -11,8 +11,8 @@
     "stwr:durimita_cristal": {
       "textures": "textures/items/minerales/stwr_durimita_cristal"
     },
-    "stwr:rubi": {
-      "textures": "textures/items/minerales/stwr_rubi"
+    "stwr:ruby": {
+      "textures": "textures/items/minerales/stwr_ruby"
     },
     "stwr:rubimita": {
       "textures": "textures/items/minerales/stwr_rubimita"
@@ -36,7 +36,7 @@
       "textures": "textures/items/herramientas/stwr_outlas"
     },
     "stwr:kavi_resistencia": {
-      "textures": "textures/items/comidas/stwr_kavi_resistencia"
+      "textures": "textures/items/comidas/stwr_kavi"
     },
     "stwr:casco_titamita": {
       "textures": [
@@ -72,6 +72,12 @@
     },
     "stwr:casco_precursor": {
 			"textures": "textures/items/rasa/casco_precursor"
+    },
+    "stwr:casco_scorpion": {
+			"textures": "textures/items/rasa/casco_scorpion"
+    },
+    "stwr:casco_reptil": {
+			"textures": "textures/items/rasa/casco_reptil"
     },
     "stwr:casco_angel": {
 			"textures": "textures/items/rasa/casco_angel"
