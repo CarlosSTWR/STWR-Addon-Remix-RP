@@ -1,0 +1,28 @@
+{
+	"format_version": "1.8.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "ca:proyectil",
+			"materials": {
+				"default": "zombie"
+			},
+			"textures": {
+				"default": "textures/entity/proyectil"
+			},
+			"geometry": {
+				"default": "geometry.bola"
+			},
+			"animation_controllers": [
+				{
+					"idle": "controller.animation.bola.idle"
+				}
+			],
+			"animations": {
+				"idle": "animation.bola.idle"
+			},
+			"render_controllers": [
+				"controller.render.default"
+			]
+		}
+	}
+}

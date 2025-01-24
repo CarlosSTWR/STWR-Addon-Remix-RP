@@ -1,0 +1,25 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.poder.animacion": {
+			"loop": true,
+			"animation_length": 2.08,
+			"bones": {
+				"poder": {
+					"rotation": {
+						"0.0": [
+							0,
+							0,
+							0
+						],
+						"2.08": [
+							0,
+							-360,
+							0
+						]
+					}
+				}
+			}
+		}
+	}
+}

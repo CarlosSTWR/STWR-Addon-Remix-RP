@@ -1,0 +1,49 @@
+{
+	"format_version": "1.8.0",
+	"render_controllers": {
+		"controller.render.rool_admin": {
+			"geometry": "geometry.rooles",
+			"materials": [
+				{
+					"*": "material.default"
+				}
+			],
+			"textures": [
+				"texture.rool_admin"
+			]
+		},
+		"controller.render.rool_mercader": {
+			"geometry": "geometry.rooles",
+			"materials": [
+				{
+					"*": "material.default"
+				}
+			],
+			"textures": [
+				"texture.rool_mercader"
+			]
+		},
+		"controller.render.rool_vip": {
+			"geometry": "geometry.rooles",
+			"materials": [
+				{
+					"*": "material.default"
+				}
+			],
+			"textures": [
+				"texture.rool_vip"
+			]
+		},
+		"controller.render.rool_policia": {
+			"geometry": "geometry.rooles",
+			"materials": [
+				{
+					"*": "material.default"
+				}
+			],
+			"textures": [
+				"texture.rool_policia"
+			]
+		}
+	}
+}

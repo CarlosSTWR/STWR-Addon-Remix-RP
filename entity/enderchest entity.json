@@ -1,0 +1,42 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "pa:enderchest",
+			"materials": {
+				"default": "pig"
+			},
+			"textures": {
+				"default": "textures/entity/ender"
+			},
+			"geometry": {
+				"default": "geometry.enderchest"
+			},
+			"animations": {
+				"setup": "animation.cofre.ojo",
+				"walk": "animation.cofre.move",
+				"look_at_target": "animation.common.look_at_target",
+				"baby_transform": "animation.pig.baby_transform"
+			},
+			"scripts": {
+				"animate": [
+					"setup",
+					{
+						"walk": "query.modified_move_speed"
+					},
+					"look_at_target",
+					{
+						"baby_transform": "query.is_baby"
+					}
+				]
+			},
+			"render_controllers": [
+				"controller.render.piglin"
+			],
+			"spawn_egg": {
+				"texture": "amigo_enderchest",
+				"texture_index": 0
+			}
+		}
+	}
+}

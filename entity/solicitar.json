@@ -1,0 +1,42 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "pa:solicitar_tp",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/portal_rojo"
+			},
+			"geometry": {
+				"default": "geometry.portal"
+			},
+			"scripts": {
+				"animate": [
+					"setup",
+					{
+						"walk": "query.modified_move_speed"
+					},
+					"look_at_target",
+					{
+						"baby_transform": "query.is_baby"
+					}
+				]
+			},
+			"animations": {
+				"setup": "animation.portal.new",
+				"walk": "animation.quadruped.walk",
+				"look_at_target": "animation.common.look_at_target",
+				"baby_transform": "animation.pig.baby_transform"
+			},
+			"render_controllers": [
+				"controller.render.pig"
+			],
+			"spawn_egg": {
+				"texture": "tp_solicitar",
+				"texture_index": 0
+			}
+		}
+	}
+}

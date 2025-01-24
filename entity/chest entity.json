@@ -1,0 +1,50 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "pa:chest_entity",
+			"materials": {
+				"default": "pig"
+			},
+			"textures": {
+				"default": "textures/entity/normal"
+			},
+			"geometry": {
+				"default": "geometry.chest_normal"
+			},
+			"animations": {
+				"setup": "animation.chest_entity.general",
+				"walk": "animation.chest_entity.move",
+				"look_at_target": "animation.common.look_at_target",
+				"baby_transform": "animation.pig.baby_transform",
+				"abrir": "animation.chest_entity.abrir",
+				"cerrar": "animation.chest_entity.cerrar"
+			},
+			"scripts": {
+				"animate": [
+					"setup",
+					{
+						"walk": "query.modified_move_speed"
+					},
+					"look_at_target",
+					{
+						"baby_transform": "query.is_baby"
+					},
+					{
+						"abrir": "query.is_interested&&query.is_shaking_wetness"
+					},
+					{
+						"cerrar": "!query.is_interested&&!query.is_shaking_wetness"
+					}
+				]
+			},
+			"render_controllers": [
+				"controller.render.piglin"
+			],
+			"spawn_egg": {
+				"texture": "amigo_chest",
+				"texture_index": 0
+			}
+		}
+	}
+}

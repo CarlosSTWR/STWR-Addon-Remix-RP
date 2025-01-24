@@ -1,0 +1,64 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.npc_mininglife.base": {
+			"loop": "hold_on_last_frame",
+			"animation_length": 0.52,
+			"bones": {
+				"nada": {
+					"rotation": {
+						"0.0": [
+							0,
+							0,
+							0
+						],
+						"0.52": [
+							0,
+							-360,
+							0
+						]
+					}
+				}
+			},
+			"sound_effects": [
+				{
+					"effect": "base2"
+				}
+			],
+			"particle_effects": {
+				"0.0": {
+					"effect": "base1",
+					"locator": "base"
+				},
+				"0.08": {
+					"effect": "base1",
+					"locator": "base"
+				},
+				"0.16": {
+					"effect": "base1",
+					"locator": "base"
+				},
+				"0.24": {
+					"effect": "base1",
+					"locator": "base"
+				},
+				"0.32": {
+					"effect": "base1",
+					"locator": "base"
+				},
+				"0.4": {
+					"effect": "base1",
+					"locator": "base"
+				},
+				"0.48": {
+					"effect": "base1",
+					"locator": "base"
+				},
+				"0.52": {
+					"effect": "base1",
+					"locator": "base"
+				}
+			}
+		}
+	}
+}

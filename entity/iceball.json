@@ -1,0 +1,28 @@
+{
+	"format_version": "1.8.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "vatonage:iceball",
+			"materials": {
+				"default": "zombie"
+			},
+			"textures": {
+				"default": "textures/entity/iceball"
+			},
+			"geometry": {
+				"default": "geometry.ball1"
+			},
+			"animation_controllers": [
+				{
+					"idle": "controller.animation.ball1.idle"
+				}
+			],
+			"animations": {
+				"idle": "animation.ball1.idle"
+			},
+			"render_controllers": [
+				"controller.render.default"
+			]
+		}
+	}
+}

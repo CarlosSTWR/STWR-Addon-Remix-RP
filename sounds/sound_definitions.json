@@ -1,4 +1,27 @@
+//bridge-file-version: #1
 {
-	"format_version": "1.14.0",
-	"sound_definitions": {}
+	"mob.pa_menu_c.say": {
+		"category": "neutral",
+		"sounds": [
+			"sounds/mob/pa_menu_c/say"
+		]
+	},
+	"mob.pa_computer.say": {
+		"category": "neutral",
+		"sounds": [
+			"sounds/mob/pa_menu_p/say"
+		]
+	},
+	"mob.pa_menu_p.say": {
+		"category": "neutral",
+		"sounds": [
+			"sounds/mob/pa_menu_p/say"
+		]
+	},
+	"mob.pa_constructor.say": {
+		"category": "neutral",
+		"sounds": [
+			"sounds/mob/pa_constructor/anvil_land"
+		]
+	}
 }
