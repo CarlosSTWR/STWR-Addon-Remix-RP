@@ -77,10 +77,10 @@
 			"textures": "textures/items/rasa/casco_scorpion"
     },
     "stwr:casco_reptil": {
-			"textures": "textures/items/minerales/casco_reptil"
+			"textures": "textures/items/rasa/casco_reptil"
     },
     "stwr:venemita": {
-			"textures": "textures/items/rasa/vememita"
+			"textures": "textures/items/minerales/stwr_venemita"
     },
     "stwr:casco_angel": {
 			"textures": "textures/items/rasa/casco_angel"
