@@ -85,6 +85,48 @@
     "stwr:kovito": {
       "textures": "textures/items/monedas/kovito"
     },
+    "stwr:barrita_flecha": {
+      "textures": "textures/items/barritas/barrita_flecha"
+    },
+    "stwr:barrita_explosiva": {
+      "textures": "textures/items/barritas/barrita_explosiva"
+    },
+    "stwr:barrita_dragon": {
+      "textures": "textures/items/barritas/barrita_dragon"
+    },
+    "stwr:barrita_fuego": {
+      "textures": "textures/items/barritas/barrita_fuego"
+    },
+    "stwr:barrita_hielo": {
+      "textures": "textures/items/barritas/barrita_hielo"
+    },
+    "stwr:barrita_veneno": {
+      "textures": "textures/items/barritas/barrita_veneno"
+    },
+    "stwr:barrita_rayo": {
+      "textures": "textures/items/barritas/barrita_rayo"
+    },
+    "stwr:barrita_teleport": {
+      "textures": "textures/items/barritas/barrita_teleport"
+    },
+    "stwr:barrita_media": {
+      "textures": "textures/items/barritas/barrita_media"
+    },
+    "stwr:barrita_grande": {
+      "textures": "textures/items/barritas/barrita_grande"
+    },
+    "stwr:barrita_superior": {
+      "textures": "textures/items/barritas/barrita_superior"
+    },
+    "stwr:barrita_wither": {
+      "textures": "textures/items/barritas/barrita_wither"
+    },
+    "stwr:barrita_basica": {
+      "textures": "textures/items/barritas/barrita_basica"
+    },
+    "stwr:barrita_baja": {
+      "textures": "textures/items/barritas/barrita_baja"
+    },
     "stwr:casco_angel": {
 			"textures": "textures/items/rasa/casco_angel"
 		}
