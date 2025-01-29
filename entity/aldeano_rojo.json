@@ -2,12 +2,12 @@
 	"format_version": "1.10.0",
 	"minecraft:client_entity": {
 		"description": {
-			"identifier": "mercader:aldeano_3",
+			"identifier": "mercader:aldeano_rojo",
 			"materials": {
 				"default": "armor_stand"
 			},
 			"textures": {
-				"default": "textures/entity/aldeano_rosita"
+				"default": "textures/entity/aldeano_rojo"
 			},
 			"animations": {
 				"default_pose": "animation.armor_stand.default_pose",
