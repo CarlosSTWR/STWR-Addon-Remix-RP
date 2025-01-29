@@ -82,6 +82,9 @@
     "stwr:venemita": {
 			"textures": "textures/items/minerales/stwr_venemita"
     },
+    "stwr:kovito": {
+      "textures": "textures/items/monedas/kovito"
+    },
     "stwr:casco_angel": {
 			"textures": "textures/items/rasa/casco_angel"
 		}
