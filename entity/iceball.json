@@ -2,12 +2,12 @@
 	"format_version": "1.8.0",
 	"minecraft:client_entity": {
 		"description": {
-			"identifier": "vatonage:iceball",
+			"identifier": "stwr:proyectil_explosivo",
 			"materials": {
 				"default": "zombie"
 			},
 			"textures": {
-				"default": "textures/entity/iceball"
+				"default": "textures/modelos/bolas_barritas/iceball"
 			},
 			"geometry": {
 				"default": "geometry.ball1"
